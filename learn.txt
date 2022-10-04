@@ -1,2 +1,4 @@
 hiii
 to see how branching works
+fixing issue by adding solutions 
+and we can reffer issue by its ID its #3
