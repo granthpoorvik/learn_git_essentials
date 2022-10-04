@@ -5,3 +5,5 @@ bcz the real time projects do not have a GUI (google it!) support
 command line is important
 
 servers dont have GUIs 
+this is used to do branches
+it is like other path
